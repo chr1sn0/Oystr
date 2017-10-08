@@ -8,7 +8,7 @@
                         "download": {
                             "url": "https://github.com/pirl/pirl/releases/download/1.0.0/pirl-linux64-1.0.0.zip",
                             "type": "zip",
-                            "sha256": "f40d3de557dbdfa98b5d08f6a0d5f1089a620d15ace7da2ce3da070504355e71",
+                            "sha256": "d38ec8d73150d3f161afd70b9ae07d6b36c4294bc432684393579fddc4a27067",
                             "bin": "pirl"
                         },
                         "bin": "pirl",
